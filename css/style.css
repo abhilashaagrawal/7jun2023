@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'ashifont';
+    src: url("../font/alex.ttf") format("truetype");
+}
+
+article{
+    border-bottom: 1px solid black;
+}
+#i1{
+    color:red;
+}
+#i2{
+    color:blue;
+    font-family: 'ashifont',Arial, Helvetica, sans-serif;
+}
+.c1{
+    color:blueviolet;
+}
+h1{
+    font-family:'Dancing Script', cursive;
+}
